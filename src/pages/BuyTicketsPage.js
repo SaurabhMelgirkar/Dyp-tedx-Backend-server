@@ -51,7 +51,7 @@ const BuyTicketsPage = () => {
       }
 
       const options = {
-        key: "rzp_test_20KaMSW4yjfZm5", // Replace with live key before production
+        key: "rzp_test_KzB4idWWnf33y2", // Replace with live key before production
         amount: selectedSession.price * 100,
         currency: "INR",
         name: "TEDx DYP Akurdi",
